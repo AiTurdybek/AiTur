@@ -1,0 +1,2 @@
+# AiTur
+ICT capabilities
